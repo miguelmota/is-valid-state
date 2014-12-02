@@ -1,7 +1,7 @@
 (function(){
 
   function isValidState(v, opts) {
-    if (!v) return v;
+    if (!v) return false;
     opts = opts || {};
     v = v.toString();
     if (opts.caseInsensitive) {
