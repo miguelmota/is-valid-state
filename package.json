@@ -1,8 +1,8 @@
 {
   "name": "is-valid-state",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Validate U.S. state",
-  "main": "index.js",
+  "main": "is-valid-state.js",
   "directories": {
     "test": "test"
   },
